@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>петров илья лаба1</title>
+</head>
+<body>
+
+
+
+<p style="color: red;"> 1 задания </p>
+<section>
+<h1> Заголовок 1-уровня</h1></br>
+<h2> Заголовок 2-уровня</h2>
+<div>
+<strong> Уильям </strong> Тейтем  (Билл) Ти́лден (англ. William Tatem "Bill" Tilden; 10 февраля 1893, Филадельфия — 5 июня 1953, Лос-Анджелес) — американский теннисист, писатель, журналист и теннисный тренер, первая ракетка мира среди любителей в 1920—1925 годах.
+</div> </br>
+<h3> Заголовок 3-уровня</h3>
+<div>
+<i>Петер </i>Арни Йёбакк родился 4 июня 1971 года в Стокгольме. Его мать — Моника Линд (швед. Monica Lind) — известная шведская певица и актриса. Учился в музыкальной школе Адольфа Фредрика, а затем в королевской музыкальной академии в классе вокала. Он также посещал танцевальную школу Лассе Кюлера (норв. Lasse Kühler).
+</div> </br>
+<h4> Заголовок 4-уровня</h4>
+<p>Название страны происходит от древнескандинавских слов svea и rige — «государство свеев».</p> </br>
+<h5> Заголовок 5-уровня</h5>
+<div>
+ <del>В состав </del> Швеции входят два крупных острова в Балтике — Готланд и <u>Эланд. </u>
+</div> </br>
+<h6> Заголовок 6-уровня</h6>
+<div>
+x<sup>2</sup>=r<sub>i</sub>
+</div></br>
+</section>
+
+
+
+<p style="color: red;"> 2 задания </p>
+<section>
+<a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" target="_blank">Эмердже́нтность</a> - появление у системы свойств, не присущих её элементам в отдельности; несводимость свойств системы к сумме свойств её компонентов. Аналогичными понятиями в теории систем и других областях знаний являются синергичность, холизм, системный эффект, сверхаддитивный эффект, некомпозициональность.
+</br>
+</br>
+</br>
+<a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" >Эмердже́нтность</a> - появление у системы свойств, не присущих её элементам в отдельности; несводимость свойств системы к сумме свойств её компонентов. Аналогичными понятиями в теории систем и других областях знаний являются синергичность, холизм, системный эффект, сверхаддитивный эффект, некомпозициональность.
+</br>
+</br>
+</br>
+<a href="mailto:redarmyisstrongestall@yandex.ru "> П О Ч Т А</a>
+</br>
+</br>
+<div>
+<h1>Майкл Шамвэй Ли</h1>
+<h2 id="h21">Политика</h2><div>Был в числе трех сенаторов-мормонов, которые проголосовали против принятия закона о запрете трудовой дискриминации по гендерному признаку. Осенью 2013 года во время приостановления работы федерального правительства выступал против любых компромиссов с Белым Домом. Согласно социологическому опросу в октябре 2013 года 57 % опрошенных жителей штата Юта хотят, чтобы сенатор Ли был более склонен к компромиссу, а 43 % опрошенных поддерживают его прежнюю политику.
+</br>
+В ходе президентских праймериз Республиканской партии в 2016 году стал первым членом Сената, поддержавшим сенатора от Техаса Теда Круза. Также активно критиковал и отказался поддержать Дональда Трампа после его победы на праймериз.</div></br>
+<h2 id="h22">Семья</h2><div>Майкл Ли и Шэрон Бэрр поженились в 1993 год. Пара воспитывает сыновей-близнецов Джеймса и Джона и дочь Элизу. Трое из его кузенов были избраны сенаторами.</div></br></br>
+<nav>
+<a href="#h21"> Политика </a> </br>
+<a href="#h22"> Семья </a>
+</nav>
+</div>
+</br>
+</br>
+</br>
+<a href="CHit-kodyi-dlya-GTA-San-Andreas.txt" download> скачать текстовый документ</a>
+</br>
+</br>
+</br>
+</section>
+
+
+
+<p style="color: red;"> 3 задания </p>
+<section>
+<ol>
+<li>Илья</li>
+<li>Анна</li>
+<li>Сергей</li>
+</ol>
+</br>
+</br>
+<ul>
+<li>Абрамов Михаил Андреевич</li>
+<li>Антонова Татьяна Николаевна</li>
+<li>Антропов Борис Сергеевич</li>
+</ul>
+</br>
+</br>
+</br>
+<dl>
+<dt><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%B1%D0%BE%D0%BB%D0%B0_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)">Гипе́рбола</a> </dt>
+<dd>— геометрическое место точек M евклидовой плоскости, для которых абсолютное значение разности расстояний от M до двух выделенных точек F_{1} и F_{2} (называемых фокусами) постоянно.</dd>
+<dt><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D0%BB%D0%B0#:~:text=%CF%80%CE%B1%CF%81%CE%B1%CE%B2%CE%BF%CE%BB%CE%AE%20%E2%80%94%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)%20%E2%80%94%20%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE,%D0%BA%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%BC%20%D1%8D%D0%BA%D1%81%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%BE%D0%BC.">Пара́бола</a></dt>
+<dd>— геометрическое место точек, равноудалённых от данной прямой (называемой директрисой параболы) и данной точки (называемой фокусом параболы).</dd>
+</dl>
+</br>
+</br>
+</br>
+</section>
+
+
+
+
+<p style="color: red;"> 4 задания </p>
+<section>
+<figure>
+<img src="https://memepedia.ru/wp-content/uploads/2018/06/drizi-i-kezi.jpg"/>
+<img src="data:image/jpeg;base64,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" height="570px" width="570px" alt="казахстан"/> </figure>
+</br>
+<img src="ломаная ссылка" alt="сломал("/>
+</br>
+</br>
+</br>
+<a href="https://www.ystu.ru/"><img src="https://upload.wikimedia.org/wikipedia/ru/c/c3/%D0%A3%D0%BB%D1%8B%D0%B1%D0%BD%D0%B8%D1%81%D1%8C%2C_%D0%B4%D1%83%D1%80%D0%B0%D0%BA%21.jpg" height="570px" width="570px"/></a>
+</section>
+
+
+
+
+<p style="color: red;"> 5 задания </p>
+<section>
+
+<table  border="1">
+<tr>
+<td>я</td>
+<td>люблю</td>
+<td>ягту</td>
+</tr>
+<tr>
+<td>боже</td>
+<td>храни</td>
+<td>ягту</td>
+</tr>
+<tr>
+<td>я</td>
+<td>обожаю</td>
+<td>ягту</td>
+</tr>
+</table>
+
+</br>
+</br>
+
+<table border="1">
+<tr>
+<td>я</td>
+<td colspan="2">люблю ягту</td>
+
+</tr>
+<tr>
+<td>Боже</td>
+<td>храни</td>
+<td>ягту</td>
+</tr>
+<tr>
+<td>я</td>
+<td>обожаю</td>
+<td>ягту</td>
+</tr>
+</table>
+</br>
+</br>
+
+<table  border="1">
+<tr>
+<td>я</td>
+<td>люблю</td>
+<td>ягту</td>
+</tr>
+<tr>
+<td rowspan="2">боже</td>
+<td>хранит</td>
+<td>ягту</td>
+</tr>
+<tr>
+
+<td>обожает</td>
+<td>ягту</td>
+</tr>
+</table>
+
+</br>
+</br>
+
+<table  border="1">
+<tr>
+<th>кто</th>
+<th>что делает</th>
+<th>кого</th>
+<th>ещё раз:кто</th>
+<th>ещё раз:что делает</th>
+<th>ещё раз:кого</th>
+</tr>
+<tr>
+<td>боже</td>
+<td>хранит</td>
+<td>ягту</td>
+<td>боже</td>
+<td>хранит</td>
+<td>ягту</td>
+</tr>
+<tr>
+<td>я</td>
+<td>обожает</td>
+<td>ягту</td>
+<td>я</td>
+<td>обожает</td>
+<td>ягту</td>
+</tr>
+<tr>
+<td>я</td>
+<td>обожает</td>
+<td>ягту</td><td>я</td>
+<td>обожает</td>
+<td>ягту</td>
+</tr>
+</table>
+
+</br>
+</br>
+
+</section>
+
+
+
+<p style="color: red;"> 6 задания </p>
+<section>
+<form action="" method="GET">
+<input type="text"   placeholder="фамилия"/></br>
+<input type="text"   placeholder="имя"/></br>
+<input type="text"   placeholder="отчество"/></br>
+<button>ok</button></br>
+</br>
+</br>
+<input type="number" placeholder="число"/> </br>
+<label><input type="checkbox" name="flag" value="1"/>1</br></label>
+<label><input type="checkbox" name="flag" value="4"/>4</br></label>
+<label><input type="checkbox" name="flag" value="8"/>8</br></label>
+<label><input type="checkbox" name="flag" value="8"/>8</br></label>
+<button>ok</button></br>
+</form>
+</br>
+</br>
+</br>
+</br>
+<form action="" method="GET">
+пол </br>
+<label><input type="radio" value="1" name="sex"/> male </br></label>
+<label><input type="radio" value="2" name="sex"/> female </br></label>
+<label><input type="radio" value="3" name="sex"/> attack helicopter </br></label>
+</br>
+фио </br>
+<input type="text" minlength="3" required  placeholder="фамилия"/></br>
+<input type="text" minlength="3" required placeholder="имя"/></br>
+<input type="text" minlength="3" required placeholder="отчество"/></br>
+</br>
+возраст </br>
+<input type="number" required placeholder="возраст"/></br>
+</br>
+телефон </br>
+<input type="tel" required placeholder="телефон"/></br>
+почта </br>
+<input type="email" required placeholder="почта"/></br>
+</br>
+группа </br>
+<select required size="3">
+<label><option value="1"> 1 группа </option></label>
+<label><option value="2"> 2 группа </option></label>
+<label><option value="3"> 3 группа </option></label>
+</select> </br>
+</br>
+пароль </br>
+<input type="password" required placeholder="пароль"/></br>
+</br>
+</br>
+<label><input type="checkbox"/>учусь платно</br></label>
+</br>
+<button>зарегистрироваться</button></br>
+</form>
+</br>
+</br>
+</br>
+</section>
+
+
+
+<p style="color: red;"> 7 задания </p>
+<section>
+<audio controls>
+<source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" />
+</audio>
+</br>
+<video controls>
+<source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4"/>
+</video>
+
+</section>
+</body>
+</html>
